@@ -1,4 +1,4 @@
-makingchnagespipeline{
+makingchangespipeline{
     tools{
         jdk 'myjava'
         maven 'mymaven131'
